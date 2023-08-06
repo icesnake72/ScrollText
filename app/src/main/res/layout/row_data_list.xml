@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/data_relative_layout_image"
+        android:layout_width="match_parent"
+        android:background="#FFFFFFFF"
+        android:layout_height="150dp">
+
+        <ImageView
+            android:id="@+id/image_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher_foreground" />
+
+        <TextView
+            android:id="@+id/title_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="지구상에서 최고 좋은 안드로이드 APP."
+            android:textColor="@color/black"
+            android:background="#50FFFFFF"
+            android:textStyle="bold"
+            android:layout_alignParentBottom="true"
+            android:textAlignment="center"
+            android:padding="6dp"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/desc_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="이것은 지구상에서 가장 좋은 안드로이드 앱으로써 어쩌구 저쩌구 블라블라 초슈퍼 울트라사이언... 아무튼 좋습니다 "
+        android:textColor="#979797"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:gravity="center_horizontal"
+        android:padding="10dp"/>
+
+    <TextView
+        android:id="@+id/price_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="39,900원"
+        android:textColor="#FF8080"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:paddingTop="10dp"
+        android:paddingBottom="30dp"/>
+
+</LinearLayout>

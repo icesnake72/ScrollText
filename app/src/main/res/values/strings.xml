@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ScrollText</string>
+    <string name="article_title">안드로이드 리니어 레이아웃</string>
+    <string name="user_id">사용자 아이디</string>
+    <string name="clear_sp">환경설정 초기화</string>
+    <string name="data_lsit">데이터 리스트</string>
+
+    <string name="android_app">정말 좋은 안드로이드 APP</string>
+    <string name="apple_app">정말 좋은 애플 APP</string>
+    <string name="microsoft_app">정말 좋은 마이크로소프트 APP</string>
+    <string name="google_app">정말 좋은 구글 APP</string>
+    <string name="insta_app">정말 좋은 인스타그램 APP</string>
+
+    <string name="android_desc">Android는 Linux 커널을 기반으로 Google에서 제작하고 있는 범용 모바일 운영 체제와 미들웨어 및 중요 애플리케이션이 포함된 소프트웨어 집합이다. Google은 새로운 운영 체제의 버전 공개와 동시에 소스를 공개하고 있다. 이렇게 공개된 소스를 AOSP라고 한다.</string>
+    <string name="apple_desc">애플 주식회사(Apple inc.)는 1976년 4월 1일에 설립된 미국의 전자제품 제조사로, 세부 업종은 하드웨어, 소프트웨어, 온라인 서비스 등의 디자인·설계, 개발, 제조·제작 및 판매업이다.</string>
+    <string name="microsoft_desc">미국에 위치한 세계 최대규모 소프트웨어 기업으로 본사는 워싱턴 주 시애틀 근처의 레드먼드(Redmond)에 위치해 있다.</string>
+    <string name="google_desc">구글(Google)은 웹 검색, 포털 사이트, 또는 플랫폼을 운영하고 광고를 주요 수익모델 영역으로 하는 미국의 다국적 IT 회사, 또는 구글 사가 서비스하는 검색 엔진을 가리킨다.</string>
+    <string name="insta_desc">2010년 케빈 시스트롬(Kevin Systrom)과 마이크 크리거(Mike Krieger)가 개발을 시작했다. 당시 프로젝트에서는 여러 기능이 있었으나 결국 모바일에 초점을 맞추었고 그해 10월 6일 iOS 버전 인스타그램을 개시하였다. 인스타그램이라는 이름은 Instant camera와 Telegram을 합친 혼성어이다.</string>
+
+    <string name="android_price">9,900</string>
+    <string name="apple_price">11,900</string>
+    <string name="microsoft_price">22,900</string>
+    <string name="google_price">18,900</string>
+    <string name="insta_price">8,900</string>
+
+</resources>
